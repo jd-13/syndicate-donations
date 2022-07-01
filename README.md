@@ -6,7 +6,7 @@ Initial matching fund: $500
 
 Total sales: $16  
 Total donated: $32  
-Remaining matching fund: $453
+Remaining matching fund: $469
 
 ## May 2022
 
