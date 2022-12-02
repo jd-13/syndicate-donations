@@ -1,7 +1,8 @@
 # syndicate-donations
 
-Initial matching fund: $500
-Total sales: $46
+Initial matching fund: $500  
+Total sales: $46  
+Total donated: $92  
 
 Month          | Sales | Donated | Remaining matching fund
 -------------- | ----- | ------- | ------------------------ 
