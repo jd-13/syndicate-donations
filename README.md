@@ -1,8 +1,8 @@
 # syndicate-donations
 
 Initial matching fund: $500  
-Total sales: $61  
-Total donated: $122  
+Total sales: $281  
+Total donated: $562  
 
 Month          | Sales | Donated | Remaining matching fund
 -------------- | ----- | ------- | ------------------------ 
@@ -17,3 +17,4 @@ November 2022  | $15   | $30     | $454
 December 2022  | $0    | $0      | $454
 January 2023   | $0    | $0      | $454
 February 2023  | $15   | $30     | $439
+March 2023     | $220  | $440    | $219
