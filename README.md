@@ -10,8 +10,8 @@ The funds raised by both methods of purchase will be matched by the matching fun
 Sales via whiteelephantaudio.com: $326  
 Sales via donation receipts: $16  
 
-Total donated: $622  
-Total raised (including via donation receipts): $638
+Total donated: $668  
+Total raised (including via donation receipts): $684
 
 ## Monthly totals
 The donated column is calculated as follows:
