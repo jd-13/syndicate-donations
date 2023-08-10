@@ -20,6 +20,8 @@ Sales via whiteelephantaudio.com + Matching donation for sales via whiteelephant
 ```
 Ie. it includes matching donations for sales via donation receipts, but not those sales themselves as this amount was already donated by the customers who provided the receipts.
 
+*Sales via donation receipts have only been supported since June 2023*
+
 Month          | Sales (whiteelephantaudio.com) | Sales (donation receipts) | Donated | Remaining matching fund
 -------------- | ------------------------------ | ------------------------- | ------- | ----------------------- 
 April 2022     | $15                            | N/A                       | $30     | $485
