@@ -4,14 +4,14 @@ Syndicate raises money through two ways:
 1. Purchases made directly on whiteelephantaudio.com
 2. Purchased made by a customer donating directly to a charity and providing the donation receipt to redeem their copy of Syndicate
 
-The funds raised by both methods of purchase will be matched by the matching fund, which matches the first $500 raised.
+The funds raised by both methods of purchase will be matched by the matching fund, which matches the first $1000 raised.
 
 ## All time totals
-Sales via whiteelephantaudio.com: $426  
+Sales via whiteelephantaudio.com: $486  
 Sales via donation receipts: $16  
 
-Total donated: $868  
-Total raised (including via donation receipts): $884
+Total donated: $988  
+Total raised (including via donation receipts): $1004
 
 ## Monthly totals
 The donated column is calculated as follows:
@@ -20,7 +20,8 @@ Sales via whiteelephantaudio.com + Matching donation for sales via whiteelephant
 ```
 Ie. it includes matching donations for sales via donation receipts, but not those sales themselves as this amount was already donated by the customers who provided the receipts.
 
-*Sales via donation receipts have only been supported since June 2023*
+*Sales via donation receipts have only been supported since June 2023*  
+*The matching fund originally started at $500, but an additional $500 was added in October 2023*
 
 Month          | Sales (whiteelephantaudio.com) | Sales (donation receipts) | Donated | Remaining matching fund
 -------------- | ------------------------------ | ------------------------- | ------- | ----------------------- 
@@ -42,3 +43,4 @@ June 2023      | $15                            | $16                       | $4
 July 2023      | $20                            | $0                        | $40     | $138
 August 2023    | $45                            | $0                        | $90     | $93
 September 2023 | $35                            | $0                        | $70     | $58
+October 2023   | $60                            | $0                        | $120    | $498 ($500 topup)
