@@ -7,11 +7,11 @@ Syndicate raises money through two ways:
 The funds raised by both methods of purchase will be matched by the matching fund, which matches the first $1000 raised.
 
 ## All time totals
-Sales via whiteelephantaudio.com: $546  
-Sales via donation receipts: $56  
+Sales via whiteelephantaudio.com: $561  
+Sales via donation receipts: $109  
 
-Total donated: $1148  
-Total raised (including via donation receipts): $1204
+Total donated: $1231  
+Total raised (including via donation receipts): $1340
 
 ## Monthly totals
 The donated column is calculated as follows:
@@ -21,7 +21,7 @@ Sales via whiteelephantaudio.com + Matching donation for sales via whiteelephant
 Ie. it includes matching donations for sales via donation receipts, but not those sales themselves as this amount was already donated by the customers who provided the receipts.
 
 *Sales via donation receipts have only been supported since June 2023*  
-*The matching fund originally started at $500, but an additional $500 was added in October 2023*
+*The matching fund originally started at $500, an additional $500 was added in October 2023*
 
 Month          | Sales (whiteelephantaudio.com) | Sales (donation receipts) | Donated | Remaining matching fund
 -------------- | ------------------------------ | ------------------------- | ------- | ----------------------- 
@@ -37,6 +37,7 @@ September 2023 | $35                            | $0                        | $7
 October 2023   | $60                            | $0                        | $120    | $498 ($500 topup)
 November 2023  | $0                             | $0                        | $0      | $498
 December 2023  | $60                            | $40                       | $160    | $398
+January 2024   | $15                            | $53                       | $83     | $330
 
 <details>
 <summary>2022 (click to expand)</summary>
