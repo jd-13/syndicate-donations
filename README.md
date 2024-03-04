@@ -25,6 +25,14 @@ Ie. it includes matching donations for sales via donation receipts, but not thos
 
 Month          | Sales (whiteelephantaudio.com) | Sales (donation receipts) | Donated | Remaining matching fund
 -------------- | ------------------------------ | ------------------------- | ------- | ----------------------- 
+January 2024   | $15                            | $53                       | $83     | $330
+February 2024  | $516                           | $62                       | $846    | $0
+
+<details>
+<summary>2023 (click to expand)</summary>
+
+Month          | Sales (whiteelephantaudio.com) | Sales (donation receipts) | Donated | Remaining matching fund
+-------------- | ------------------------------ | ------------------------- | ------- | ----------------------- 
 January 2023   | $0                             | N/A                       | $0      | $454
 February 2023  | $15                            | N/A                       | $30     | $439
 March 2023     | $220                           | N/A                       | $440    | $219
@@ -37,8 +45,8 @@ September 2023 | $35                            | $0                        | $7
 October 2023   | $60                            | $0                        | $120    | $498 ($500 topup)
 November 2023  | $0                             | $0                        | $0      | $498
 December 2023  | $60                            | $40                       | $160    | $398
-January 2024   | $15                            | $53                       | $83     | $330
-February 2024  | $516                           | $62                       | $846    | $0
+
+</details>
 
 <details>
 <summary>2022 (click to expand)</summary>
