@@ -7,11 +7,11 @@ Syndicate raises money through two ways:
 The funds raised by both methods of purchase will be matched by the matching fund, which matches the first $1000 raised.
 
 ## All time totals
-Sales via whiteelephantaudio.com: $1352  
+Sales via whiteelephantaudio.com: $1388  
 Sales via donation receipts: $171  
 
-Total donated: $2352  
-Total raised (including via donation receipts): $2523
+Total donated: $2388  
+Total raised (including via donation receipts): $2559
 
 ## Monthly totals
 The donated column is calculated as follows:
@@ -34,6 +34,7 @@ June 2024      | $15                            | $0                        | $1
 July 2024      | $36                            | $0                        | $36     | $0 
 August 2024    | $48                            | $0                        | $48     | $0
 September 2024 | $56                            | $0                        | $56     | $0
+October 2024   | $36                            | $0                        | $36     | $0
 
 <details>
 <summary>2023 (click to expand)</summary>
