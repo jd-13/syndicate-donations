@@ -32,6 +32,7 @@ April 2025     | $90                            | $0                        | $9
 May 2025       | $36                            | $0                        | $36     | $0
 June 2025      | $18                            | $0                        | $18     | $0
 July 2025      | $18                            | $0                        | $18     | $0
+August 2025    | $0                             | $0                        | $0      | $0
 
 <details>
 <summary>2024 (click to expand)</summary>
