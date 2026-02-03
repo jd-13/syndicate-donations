@@ -35,6 +35,8 @@ July 2025      | $18                            | $0                        | $1
 August 2025    | $0                             | $0                        | $0      | $0
 September 2025 | $54                            | $0                        | $54     | $0
 October 2025   | $18                            | $0                        | $18     | $0
+November 2025  | $0                             | $0                        | $0      | $0
+December 2025  | $0                             | $0                        | $0      | $0
 
 <details>
 <summary>2024 (click to expand)</summary>
